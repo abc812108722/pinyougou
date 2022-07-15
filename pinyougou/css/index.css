@@ -293,3 +293,29 @@
     height:67px;
     width:252px;
 }
+.nav_left  {
+  position:fixed;
+  left:284px;
+  top:370px;
+  width:65px;
+  height:342px;
+  }
+.nav_left ul li {
+    width:66px;
+    height:32px;
+    padding:0 8px;
+    text-align:center;
+    line-height:32px;
+    border-bottom:1px solid #ededed;
+   }
+.nav_left ul li:hover {
+    background-color:#c81623;
+   }
+.nav_left ul li:hover a {
+    color:white;
+}
+.nav_left ul li a {
+    display:block;
+    color:#666666;
+    font-size:12px;
+ }
