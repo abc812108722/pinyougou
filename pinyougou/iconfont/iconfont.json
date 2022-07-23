@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "7549355",
+      "name": "调拨",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
       "icon_id": "657463",
       "name": "餐饮",
       "font_class": "canyin",
